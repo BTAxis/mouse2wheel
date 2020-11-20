@@ -1,4 +1,4 @@
-; Mouse Movement to Mouse Wheel 3.0
+; Mouse Movement to Mouse Wheel 6.0
 ; http://ahkscript.org/
 ; Uses the AHKHID library by TheGood: http://www.autohotkey.com/board/topic/38015-ahkhid-an-ahk-implementation-of-the-hid-functions/
 ; This script converts normal mouse movement into mouse wheel movement.
